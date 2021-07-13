@@ -1,2 +1,2 @@
-# unnecessary-java-projects
-A collection of unnecessary Java projects
+# Small Java Projects
+A collection of small Java projects
